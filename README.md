@@ -1,16 +1,11 @@
-## Hi there 👋
+<h1 align="center">Who am I?</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=r-ddle&label=stalkers&color=cc33e1&style=plastic" alt="r-ddle" /> </p>
+<p align="center"><b>A self-taught front-end web dev, who loves desigining modern and minimalistic websites!
+<br>
+I'm always eager to learn more every single day to improve my skills to be a great developer.</b>
+<br>
+<br>
+Currently doing a Diploma (General IT) also looking to collaborate + create projects.</p>
 
-<!--
-**r-ddle/r-ddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-ddle&theme=dark" alt="r-ddle" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r-ddle&show_icons=true&theme=tokyonight&locale=en" alt="r-ddle" /></p>
