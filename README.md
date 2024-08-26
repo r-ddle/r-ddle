@@ -3,7 +3,7 @@
 <p align="center"><b>A self-taught front-end web dev, who loves desigining modern and minimalistic websites!
 <br>
 I'm always eager to learn more every single day to improve my skills to be a great developer.</b></p>
-<p align="center"><a href="r-ddle.me" target="_blank">My Portfolio</a></p>
+<p align="center"><a href="httos://www.r-ddle.me" target="_blank">My Portfolio</a></p>
 <p align="center">Currently doing a Diploma (General IT) also looking to collaborate + create projects.</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-ddle&theme=dark" alt="r-ddle" /></p>
