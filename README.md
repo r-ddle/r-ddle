@@ -12,7 +12,7 @@ I'm always eager to learn more every single day to improve my skills to be a gre
 ---
 
 <h1 align="center">What do I study?</h1>
-<p align="center">💫 Currently learning Java and MongoDB</p>
+<p align="center">💫 Currently relearning JS and React to improve my NextJS skills</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#">
