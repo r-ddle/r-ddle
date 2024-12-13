@@ -6,7 +6,7 @@
 <p align="center">A self-taught front-end web dev, who loves desigining modern and minimalistic websites!
 <br>
 I'm always eager to learn more every single day to improve my skills to be a great developer.</p>
-<p align="center"><a href="https://r-ddle.me" target="_blank">My Portfolio (still updating)</a></p>
+<p align="center"><a href="https://r-ddle.me" target="_blank">My Portfolio</a></p>
 <p align="center">Currently doing a Diploma (General IT) also looking to collaborate + create projects.</p>
 
 ---
