@@ -51,7 +51,7 @@ I'm always eager to learn more every single day to improve my skills to be a gre
 ---
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=r-ddle&theme=rose-pine&hide_border=true&border_radius=7&short_numbers=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=r-ddle&theme=rose-pine&hide_border=true&border_radius=7&short_numbers=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=r-ddle&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-ddle&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
