@@ -1,6 +1,6 @@
 ### Hey 👋 I'm riddle
-Software Engineering student | IT Executive @ Ralhum Sports
-Currently building full-stack web applications with a focus on modern JavaScript frameworks and backend development.
+Software Engineering student | IT Executive @ Ralhum Sports <br>
+Currently a full-stack web dev with a focus on backend development.
 
 ### Current Tech Stack  
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
